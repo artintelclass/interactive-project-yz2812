@@ -13,12 +13,12 @@ Push all code and assets needed to run your project to your repo. You should als
 
 ## Deadlines
 * Idea Proposal - Due Feb. 5th
-* Working Prototype - Due Feb. 12th
+* Working Prototype - Due Feb. 14th
 * ***Finished Version - Due Feb. 19th*** 
 
 ## Grading Rubric
 * 20% Idea Proposal - Due Feb. 5th
-* 20% Working Prototype - Due Feb. 12th
+* 20% Working Prototype - Due Feb. 14th
 * 20% Creativity
 * 20% Clear Interaction - it's very clear to a user what they are doing, and how they're doing it
 * 20% Consistent - the system works consistently
