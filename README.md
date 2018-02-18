@@ -25,16 +25,16 @@ In general, this interactive presentation assistve system enables speakers to ea
 ## The Training Process
 The data processing procedure starts from the mobilephone webpage's transfering data about tilting to Wekinator Inputhelper through local server, then Wekinator Inputhelp process the data and sends them to Wekinator. In Wekinator, I set "left", "right", "up", "down", and "null" modes for different gestures, and after the machine learning and training, it can distinguish different gestures and find out corresponding mode from new input data about tilts, and finally send the mode's corresponding instruction to the presentation page to switch slides.  
 Up  
-![](https://github.com/artintelclass/interactive-project-yz2812/blob/master/pics/up.jpg)
+![](https://github.com/artintelclass/interactive-project-yz2812/blob/master/pics/up.jpeg)
 Down(two gestures)  
-![](https://github.com/artintelclass/interactive-project-yz2812/blob/master/pics/down.jpg)
-![](https://github.com/artintelclass/interactive-project-yz2812/blob/master/pics/down2.jpg)
+![](https://github.com/artintelclass/interactive-project-yz2812/blob/master/pics/down.jpeg)
+![](https://github.com/artintelclass/interactive-project-yz2812/blob/master/pics/down2.jpeg)
 Left  
-![](https://github.com/artintelclass/interactive-project-yz2812/blob/master/pics/left.jpg)
+![](https://github.com/artintelclass/interactive-project-yz2812/blob/master/pics/left.jpeg)
 Right  
-![](https://github.com/artintelclass/interactive-project-yz2812/blob/master/pics/right.jpg)
+![](https://github.com/artintelclass/interactive-project-yz2812/blob/master/pics/right.jpeg)
 Null  
-![](https://github.com/artintelclass/interactive-project-yz2812/blob/master/pics/null.jpg)
+![](https://github.com/artintelclass/interactive-project-yz2812/blob/master/pics/null.jpeg)
 
 After previous class's user testing, I noticed different users might hold mobilephone in different ways, which makes mobilephones have different tilt when users rotate them. Therefore, I had one more round of user testing on the weeked, and during this user testing, I requested users to participate in training the gesture recognition as well, and the Wekinator program with more examples from different users becomes more accurate in distinguish gestures.
 ![](https://github.com/artintelclass/interactive-project-yz2812/blob/master/pics/weki.png)
