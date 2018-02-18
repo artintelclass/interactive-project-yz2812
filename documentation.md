@@ -1,9 +1,9 @@
 # Interactive-Project Documentation
 
-##[video link](https://youtu.be/-b6IFrfuDm4)
-##Yuxin Zhou
-##Feb 19 2018
-##Art.Intel
+##[video link](https://youtu.be/-b6IFrfuDm4)##
+Yuxin Zhou
+Feb 19 2018
+Art.Intel
 
 ## Motivation
 Presentation nowadays becomes more frequently used in various occasions, and Ted Talk style presentation is getting more popular. However, in this kind of presentation, the speaker is usually in front of audience and backs to the screen, with walking around the stage during the presentation, which makes it difficult for them to have a sppech desk with a computer to swicth slides and remind them of the following content. To solve this issue, my project makes the mobilephone a remote of slides as well as the content-hint for speakers and therefore enable them to deliver better presentation.
